@@ -44,3 +44,12 @@ a {
 	margin-right: 10px;
   font-size: 20px;
 }
+#about-text {
+    position: absolute;
+    right: 140px;
+    top: 150px;
+    width: 280px;
+    color: white;
+    line-height: 200%;
+}
+
